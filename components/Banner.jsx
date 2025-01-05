@@ -44,7 +44,7 @@ const Banner = () => {
       </div>
 
       {/* SLANTED EFFECT */}
-      <div className="absolute z-20 w-full h-[300px] translate-y-[-150px] bg-white transform -skew-y-6"></div>
+      <div className="absolute z-20 w-full h-[300px] translate-y-[-100px] bg-white transform -skew-y-6"></div>
     </div>
   );
 };
