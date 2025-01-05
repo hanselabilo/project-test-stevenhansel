@@ -101,35 +101,35 @@ const Navbar = () => {
               <span className="absolute inset-x-0 bottom-0 h-0.5 bg-white scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-center"></span>
             </Link>
             <Link
-              href="/about"
+              href="/"
               className="relative px-3 py-2 rounded-md text-sm group"
             >
               About
               <span className="absolute inset-x-0 bottom-0 h-0.5 bg-white scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-center"></span>
             </Link>
             <Link
-              href="/services"
+              href="/"
               className="relative px-3 py-2 rounded-md text-sm group"
             >
               Services
               <span className="absolute inset-x-0 bottom-0 h-0.5 bg-white scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-center"></span>
             </Link>
             <Link
-              href="/ideas"
+              href="/"
               className="relative px-3 py-2 rounded-md text-sm group"
             >
               Ideas
               <span className="absolute inset-x-0 bottom-0 h-0.5 bg-white scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-center"></span>
             </Link>
             <Link
-              href="/careers"
+              href="/"
               className="relative px-3 py-2 rounded-md text-sm group"
             >
               Careers
               <span className="absolute inset-x-0 bottom-0 h-0.5 bg-white scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-center"></span>
             </Link>
             <Link
-              href="/contact"
+              href="/"
               className="relative px-3 py-2 rounded-md text-sm group"
             >
               Contact
@@ -149,31 +149,31 @@ const Navbar = () => {
               Work
             </Link>
             <Link
-              href="/about"
+              href="/"
               className="hover:bg-orange-300 px-3 py-2 rounded-md text-sm block"
             >
               About
             </Link>
             <Link
-              href="/services"
+              href="/"
               className="hover:bg-orange-300 px-3 py-2 rounded-md text-sm block"
             >
               Services
             </Link>
             <Link
-              href="/ideas"
+              href="/"
               className="hover:bg-orange-300 px-3 py-2 rounded-md text-sm block"
             >
               Ideas
             </Link>
             <Link
-              href="/careers"
+              href="/"
               className="hover:bg-orange-300 px-3 py-2 rounded-md text-sm block"
             >
               Careers
             </Link>
             <Link
-              href="/contact"
+              href="/"
               className="hover:bg-orange-300 px-3 py-2 rounded-md text-sm block"
             >
               Contact
