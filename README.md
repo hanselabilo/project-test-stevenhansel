@@ -1,7 +1,3 @@
-Here is a sample `README.md` for your project in English:
-
----
-
 # Suitmedia Frontend Internship Test
 
 This web application is part of a test for the Frontend Developer Internship program at Suitmedia. The project demonstrates skills in building a responsive and interactive application using Next.js, Tailwind CSS, and React.js.
